@@ -1,0 +1,24 @@
+== README
+
+Creating a Schema
+
+Tables:
+User
+	- Name
+	- Password
+	- Email
+User Rating
+	- User 
+	- Score
+	- Game
+Games
+	- Name
+	- Picture
+	- Game Description
+	- ESRB Rating
+	- User Rating (average)
+
+Leaving out Picture and User Rating (average) until a later date.
+
+
+<tt>rake doc:app</tt>.
