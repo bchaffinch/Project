@@ -1,24 +1,10 @@
 == README
 
-Creating a Schema
+*Homework 5*
 
-Tables:
-User
-	- Name
-	- Password
-	- Email
-User Rating
-	- User 
-	- Score
-	- Game
-Games
-	- Name
-	- Picture
-	- Game Description
-	- ESRB Rating
-	- User Rating (average)
+Added Show, Edit, and Destory Features!
 
-Leaving out Picture and User Rating (average) until a later date.
+Worked with HTML to make things a little prettier
 
 
 <tt>rake doc:app</tt>.
